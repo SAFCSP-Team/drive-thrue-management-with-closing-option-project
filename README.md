@@ -32,8 +32,17 @@ Manager requirements:
 - The restaurant serves Burgers, Fries, and Pepsi.
 - The restaurant can work on only 3 orders at a time.  If the first order is served, we can add and work on a new order.
 - All the created orders should be stored in a data structure.
-- When closing the restaurant, the system should perform a "close cash" or "end of day" that produces a receipt that summarizes all transactions for that day and saves it to a file.
+- When closing the restaurant, the system should perform a "close cash" or "end of day" that produces a receipt that summarizes all transactions for that day and saves it to a file.   
 
+`menu`
+
+```java
+    Item menu [] = {
+        new Item(1, "Burger", 25),
+        new Item(2, "Fries", 10),
+        new Item(3, "Pepsi", 5)
+    };
+```
   
   
 ## Implementation  
@@ -406,6 +415,36 @@ User chooses `4`
 The restaurant is closed successfully.
 ````
 - A file should be created that contains all the required information mentioned in the [Implementation section](#2-receive-here-screen).
+- File generated for the above test case:
+
+`restaurant-closing-invoice.txt`
+
+```
+Orders:
+
+Order ID: 1
+Burger 25.00
+Fries 10.00
+Pepsi 5.00
+Total: 40.00
+
+Order ID: 2
+Burger 25.00
+Total: 25.00
+
+Order ID: 3
+Pepsi 5.00
+Total: 5.00
+
+Total Income: 
+
+70SAR
+
+Most ordered item:
+
+Burger and Pepsi
+
+```
 
 
 

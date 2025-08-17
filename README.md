@@ -151,10 +151,11 @@ Order here screen
 
 Option `4` Close the restaurant:   
 
-2.4. The user should be able to close the restaurant
+2.4. The user should be able to close the restaurant    
 Performing this option should create a file containing the following: 
 - All the created orders.
-- All the transactions (income).
+- All the transactions (orders prices).
+- The total income.
 - The most ordered item.
 
 ## Test your project  

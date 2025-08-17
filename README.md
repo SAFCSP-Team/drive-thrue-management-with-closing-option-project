@@ -24,7 +24,6 @@ Manager requirements:
 
 
 
-
   
 ## Requirements  
 
@@ -149,7 +148,7 @@ Order here screen
 2- Switch to (Receive here screen)
 ````
 
-Option `4` Close the restaurant:   
+Option `4` Close the restaurant:  
 
 2.4. The user should be able to close the restaurant    
 Performing this option should create a file containing the following: 
@@ -389,7 +388,26 @@ Total: 5.00
 
 1- Back to Receive here screen.
 ````
- 
+
+User choose `1`
+
+````
+Receive here screen
+---------------------------
+1- Serve order.  
+2- Print all pending orders.  
+3- Switch to (Order here screen).
+4- Close the restaurant.
+````
+
+User choose `4`
+
+````
+The restaurant is closed successfully.
+````
+- A file should be created that contains all the required information mentioned in the Implementation section.
+- [Receive here screen](#2-receive-here-screen)
+
 
 
 ## Qualification to pass

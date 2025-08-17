@@ -17,7 +17,8 @@ Manager requirements:
   * Create a new order.  
   * Switch to the `Receive here` screen.  
 - `Receive here` screen.
-  * Serve order.   
+  * Serve order.
+  * Print all pending orders.  
   * Switch to the `Order here` screen.
 
 

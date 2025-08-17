@@ -405,8 +405,7 @@ User choose `4`
 ````
 The restaurant is closed successfully.
 ````
-- A file should be created that contains all the required information mentioned in the Implementation section.
-- [Receive here screen](#2-receive-here-screen)
+- A file should be created that contains all the required information mentioned in the [Implementation section](#2-receive-here-screen).
 
 
 

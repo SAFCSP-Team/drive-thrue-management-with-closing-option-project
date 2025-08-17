@@ -20,6 +20,7 @@ Manager requirements:
   * Serve order.
   * Print all pending orders.  
   * Switch to the `Order here` screen.
+  * Close the restaurant.
 
 
 
@@ -27,10 +28,12 @@ Manager requirements:
   
 ## Requirements  
 
-- The system starts with the `Order here` screen, (when running the project, the `Order here` screen pops up).     
+- The system starts with the `Order here` screen (when running the project, the `Order here` screen pops up).     
 - The project consists of two main screens, `Order here` and `Receive here`.
 - The restaurant serves Burgers, Fries, and Pepsi.
-- The restaurant can work on only 3 orders at a time,  If the first order is served, we can add and work on a new order.
+- The restaurant can work on only 3 orders at a time.  If the first order is served, we can add and work on a new order.
+- All the created orders should be stored in a data structure.
+- When closing the restaurant, the system should perform a "close cash" or "end of day" that produces a receipt that summarizes all transactions for that day and saves it to a file.
 
   
   

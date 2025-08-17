@@ -3,7 +3,7 @@
 
 ## Objective
 
-This project aims to test your knowledge of the data structures and use it to solve real-life problems.
+This project aims to test your knowledge of the data structures and use them to solve real-life problems.
 
 
 ## Problem
@@ -39,7 +39,7 @@ Manager requirements:
 ## Implementation  
 
 
-Screens requirements and details:   
+Screen requirements and details:   
 
 
 ### 1. `Order here` screen.
@@ -53,7 +53,7 @@ Option `1` Create a new order:
 
 1.1. The user should be able to add new orders.
 
-- If the user is taking the order, the user should be able to see and choose the products from the below screen
+- If the user is taking the order, the user should be able to see and choose the products from the screen below
 ```
 Take the order:  
 
@@ -153,7 +153,7 @@ Option `4` Close the restaurant:
 2.4. The user should be able to close the restaurant    
 Performing this option should create a file containing the following: 
 - All the created orders.
-- All the transactions (orders prices).
+- All the transactions (order prices).
 - The total income.
 - The most ordered item.
 
@@ -168,7 +168,7 @@ Order here screen
 2- Switch to (Receive here screen)
 ````
 
-User choose `1` 
+User chooses `1` 
 
 ```
 Take the order:  
@@ -179,7 +179,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `1`
+User chooses `1`
 
 ```
 Take the order:  
@@ -190,7 +190,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `2`
+User chooses `2`
 
 ```
 Take the order:  
@@ -201,7 +201,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `3`
+User chooses `3`
 
 ```
 Take the order:  
@@ -212,7 +212,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `4`
+User chooses `4`
 
 ```   
 Order details:
@@ -225,7 +225,7 @@ Total: 40.00
 1- Create/add the order and go back to the (Order Here) screen
 ```
 
-User choose `1`
+User chooses `1`
 
 ````
 Order here screen
@@ -234,7 +234,7 @@ Order here screen
 2- Switch to (Receive here screen)
 ````
 
-User choose `1` 
+User chooses `1` 
 
 ```
 Take the order:  
@@ -245,7 +245,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `1`
+User chooses `1`
 
 ```
 Take the order:  
@@ -256,7 +256,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `4`
+User chooses `4`
 
 ```   
 Order details:
@@ -267,7 +267,7 @@ Total: 25.00
 1- Create/add the order and go back to the (Order Here) screen
 ```
 
-User choose `1`
+User chooses `1`
 
 ````
 Order here screen
@@ -276,7 +276,7 @@ Order here screen
 2- Switch to (Receive here screen)
 ````
 
-User choose `1` 
+User chooses `1` 
 
 ```
 Take the order:  
@@ -287,7 +287,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `3`
+User chooses `3`
 
 ```
 Take the order:  
@@ -298,7 +298,7 @@ Take the order:
 4- Finish the order and check out
 ```
 
-User choose `4`
+User chooses `4`
 
 ```   
 Order details:
@@ -309,7 +309,7 @@ Total: 5.00
 1- Create/add the order and go back to the (Order Here) screen
 ```
 
-User choose `1`
+User chooses `1`
 
 ````
 Order here screen
@@ -318,7 +318,7 @@ Order here screen
 2- Switch to (Receive here screen)
 ````
 
-User choose `2`
+User chooses `2`
 
 ````
 Receive here screen
@@ -329,7 +329,7 @@ Receive here screen
 4- Close the restaurant.
 ````  
 
-User choose `2`
+User chooses `2`
 
 ````
 All the pending orders:
@@ -351,7 +351,7 @@ Total: 5.00
 1- Back to Receive here screen.
 ````
 
-User choose `1`
+User chooses `1`
 
 ````
 Receive here screen
@@ -362,7 +362,7 @@ Receive here screen
 4- Close the restaurant.
 ````  
 
-User choose `1`
+User chooses `1`
 
 ````
 Receive here screen
@@ -373,7 +373,7 @@ Receive here screen
 4- Close the restaurant.
 ````  
 
-User choose `2`
+User chooses `2`
 
 ````
 All the pending orders:
@@ -389,7 +389,7 @@ Total: 5.00
 1- Back to Receive here screen.
 ````
 
-User choose `1`
+User chooses `1`
 
 ````
 Receive here screen
@@ -400,7 +400,7 @@ Receive here screen
 4- Close the restaurant.
 ````
 
-User choose `4`
+User chooses `4`
 
 ````
 The restaurant is closed successfully.

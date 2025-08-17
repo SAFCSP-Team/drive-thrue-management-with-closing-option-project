@@ -1,4 +1,4 @@
-# Receipt Drive through management project
+# Receipt drive through management project
 
 
 ## Objective

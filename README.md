@@ -142,6 +142,20 @@ Option `3` Switch to Order here screen:
 
 2.3. The user should be able to switch the screen to the (Receive here) screen.
 
+````
+Order here screen
+---------------------------
+1- Create a new order
+2- Switch to (Receive here screen)
+````
+
+Option `4` Close the restaurant:   
+
+2.4. The user should be able to close the restaurant
+Performing this option should create a file containing the following: 
+- All the created orders.
+- All the transactions (income).
+- The most ordered item.
 
 ## Test your project  
 

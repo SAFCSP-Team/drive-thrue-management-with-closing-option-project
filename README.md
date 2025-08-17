@@ -1,0 +1,1 @@
+# receipt-drive-thrue-management-project

@@ -1,4 +1,4 @@
-# Receipt drive through management project
+#  Drive-through management with closing option project
 
 
 ## Objective

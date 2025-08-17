@@ -34,7 +34,7 @@ Manager requirements:
 - All the created orders should be stored in a data structure.
 - When closing the restaurant, the system should perform a "close cash" or "end of day" that produces a receipt that summarizes all transactions for that day and saves it to a file.   
 
-`menu`
+`Menu`
 
 ```java
     Item menu [] = {
